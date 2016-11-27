@@ -23,3 +23,7 @@ A playground to grow your Dart muscles. For better effects, get something workin
 #### A function that takes a string and a number (n) that returns a string that repeats the initial string (n) number of times.
 
 [solution](https://github.com/mohamedhayibor/dart-muscles/blob/master/solutions/repeatItAgain.dart)
+
+#### A function that prints a multiplication table for a given [n]
+
+[solution](https://github.com/mohamedhayibor/dart-muscles/blob/master/solutions/printMultiplicationTable.dart)
